@@ -1,0 +1,8 @@
+{
+  "name": "ALHAM",
+  "description": "Editorial-style web experience and store for Alham, Bangladesh\u0027s handcrafted healthy snacks and artisan food brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

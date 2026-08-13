@@ -1,0 +1,52 @@
+{
+  "entities": {
+    "Product": {
+      "title": "Product",
+      "description": "Product catalog",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string", "maxLength": 100 },
+        "price": { "type": "number" },
+        "status": { "type": "string", "enum": ["active", "draft", "archived"] }
+      },
+      "required": ["id", "name", "price"]
+    },
+    "Order": {
+      "title": "Order",
+      "description": "Customer order",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "customerEmail": { "type": "string" },
+        "total": { "type": "number" },
+        "status": { "type": "string" }
+      },
+      "required": ["id", "customerEmail", "total", "status"]
+    },
+    "User": {
+      "title": "User",
+      "description": "User profiles",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "email": { "type": "string" },
+        "role": { "type": "string" }
+      }
+    }
+  },
+  "firestore": {
+    "products/{productId}": {
+      "schema": "Product",
+      "description": "Products"
+    },
+    "orders/{orderId}": {
+      "schema": "Order",
+      "description": "Orders"
+    },
+    "users/{userId}": {
+      "schema": "User",
+      "description": "Users"
+    }
+  }
+}

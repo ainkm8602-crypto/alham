@@ -1,0 +1,74 @@
+--- src/types.ts
++++ src/types.ts
+@@ -1,13 +1,41 @@
+ export type OrderStatus =
+   | 'Pending'
++  | 'Payment Verification Pending'
++  | 'Payment Verified'
+   | 'Confirmed'
+   | 'Preparing'
+   | 'Packed'
+   | 'Shipped'
+   | 'Delivered'
+   | 'Cancelled'
+   | 'Refunded';
+ 
++export interface Notification {
++  id: string;
++  userId: string;
++  orderId?: string;
++  message: string;
++  read: boolean;
++  date: string;
++}
++
++export interface PaymentSubmission {
++  method: 'bKash' | 'Nagad' | 'Rocket';
++  senderNumber: string;
++  transactionId: string;
++  amount: number;
++  date: string;
++  screenshotUrl?: string;
++  status: 'Pending Verification' | 'Verified' | 'Rejected';
++  adminNote?: string;
++}
++
++export interface PaymentMethodConfig {
++  enabled: boolean;
++  number: string;
++  accountType: 'Personal' | 'Merchant';
++  instructions: string;
++  referenceInstructions: string;
++  transactionIdInstructions: string;
++  requireScreenshot: boolean;
++}
++
++export interface PaymentSettings {
++  bKash: PaymentMethodConfig;
++  nagad: PaymentMethodConfig;
++  rocket: PaymentMethodConfig;
++  cashOnDelivery: {
++    enabled: boolean;
++    charge: number;
++    minOrder: number;
++    maxOrder: number;
++    instructions: string;
++  };
++}
++
+ export type UserRole = 'super_admin' | 'customer';
+ 
+ export interface User {
+@@ -163,8 +191,10 @@
+   deliveryFee: number;
+   total: number;
+   status: OrderStatus;
+-  paymentMethod: 'Cash on Delivery' | 'bKash / Mobile Banking' | 'Card / Online Payment';
+-  paymentStatus: 'Pending' | 'Paid';
++  paymentMethod: 'Cash on Delivery' | 'bKash' | 'Nagad' | 'Rocket' | 'Card / Online Payment';
++  paymentStatus: 'Pending / Cash on Delivery' | 'Payment Verification Pending' | 'Verified' | 'Rejected' | 'Paid';
++  paymentSubmission?: PaymentSubmission;
++  statusTimeline: { status: OrderStatus; date: string }[];
+   trackingNumber?: string;
+   courierName?: string;
+   createdAt: string;

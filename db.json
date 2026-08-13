@@ -1,0 +1,1170 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "sku": "ALH-SNK-001",
+      "name": "Healthier Copycat Snickers Bars",
+      "nameBn": "স্বাস্থ্যকর স্নিকার্স বার (ডেট ক্যারামেল ও কোকো)",
+      "subtitle": "Chewy Date Caramel, Roasted Peanuts & Rich Cocoa Coating",
+      "subtitleBn": "চিবানো খেজুর ক্যারামেল, ভাজা বাদাম ও গাঢ় কোকো কোটিং",
+      "category": "Indulgent",
+      "categoryBn": "বিলাসিতা ও ডার্ক কোকো",
+      "price": 650,
+      "originalPrice": 750,
+      "weight": "Box of 6 (280g)",
+      "weightBn": "৬টির বক্স (২৮০ গ্রাম)",
+      "description": "An uncompromised take on the nostalgic classic. A soft chewy layer of pure date caramel topped with freshly slow-roasted crunchy peanuts, dipped in rich artisanal dark chocolate shell.",
+      "descriptionBn": "নস্টালজিক স্বাদের এক অনন্য অভিজ্ঞতা। বিশুদ্ধ খেজুরের নরম ক্যারামেল এবং মচমচে ভাজা চিনা বাদামের ওপর ডার্ক চকোলেটের আস্তরণ।",
+      "story": "Inspired by a childhood favorite, reinvented for mindful snacking. We replace refined sugars and palm oils with organic Medjool date reduction and cold-pressed coconut fats.",
+      "storyBn": "শৈশবের প্রিয় খাবার থেকে অনুপ্রাণিত, কিন্তু সম্পূর্ণ স্বাস্থ্যকর উপায়ে তৈরি। এতে কোনো রিফাইন্ড চিনি বা পাম অয়েল ব্যবহার করা হয়নি।",
+      "images": [
+        "/src/assets/images/snickers_bar_cut_1784995506640.jpg",
+        "/src/assets/images/alham_hero_texture_1784995489832.jpg"
+      ],
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-close-up-of-chocolate-sauce-being-poured-41484-large.mp4",
+      "ingredients": [
+        "Organic Medjool Dates",
+        "Slow-Roasted Peanuts",
+        "Pure Cocoa Mass",
+        "Organic Honey",
+        "Pink Himalayan Salt",
+        "Vanilla Extract"
+      ],
+      "ingredientsBn": [
+        "অর্গানিক মেডজুল খেজুর",
+        "ধীরে ভাজা বাদাম",
+        "বিশুদ্ধ কোকো মাস",
+        "অর্গানিক মধু",
+        "পিঙ্ক হিমালয় সল্ট",
+        "ভ্যানিলা নির্যাস"
+      ],
+      "allergens": [
+        "Contains Peanuts",
+        "May contain traces of tree nuts"
+      ],
+      "allergensBn": [
+        "চিনা বাদাম রয়েছে",
+        "গাছের বাদামের উপস্থিতি থাকতে পারে"
+      ],
+      "tasteProfile": {
+        "sweetness": 3,
+        "richness": 5,
+        "crunch": 4
+      },
+      "nutrition": {
+        "calories": "185 kcal",
+        "protein": "5.2g",
+        "carbs": "22g",
+        "fat": "8.5g",
+        "fiber": "3.8g",
+        "sugars": "14g (Naturally occurring from dates)"
+      },
+      "storageInstructions": "Store in a cool, dry place away from direct sunlight. Refrigerate for optimum snap and shelf performance.",
+      "storageInstructionsBn": "ঠান্ডা ও শুষ্ক স্থানে রাখুন। দীর্ঘদিনের সতেজতার জন্য রেফ্রিজারেটরে সংরক্ষণ করুন।",
+      "shelfLife": "60 Days at room temp, 90 Days refrigerated.",
+      "shelfLifeBn": "সাধারণ তাপমাত্রায় ৬০ দিন, ফ্রিজে ৯০ দিন।",
+      "deliveryInfo": "Handcrafted fresh. Shipped within 24-48 hours via fast courier across Bangladesh.",
+      "deliveryInfoBn": "তাজা তৈরি। সারা বাংলাদেশে ২৪-৪৮ ঘণ্টার মধ্যে কুরিয়ারে ডেলিভারি।",
+      "isFeatured": true,
+      "isBestseller": true,
+      "stock": 45,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "relatedProductsMode": "auto"
+    },
+    {
+      "id": "p2",
+      "sku": "ALH-KB-002",
+      "name": "Khajur Barfi",
+      "nameBn": "প্রিমিয়াম খেজুর বরফি (পিস্তা ও এলাচ)",
+      "subtitle": "Organic Medjool Date Fudge with Pistachios & Cardamom",
+      "subtitleBn": "অর্গানিক মেডজুল খেজুর, পেস্তা বাদাম ও গাওয়া ঘি দিয়ে তৈরি",
+      "category": "Date Collection",
+      "categoryBn": "খেজুর কালেকশন",
+      "price": 850,
+      "originalPrice": 950,
+      "weight": "Premium Box (350g)",
+      "weightBn": "প্রিমিয়াম বক্স (৩৫০ গ্রাম)",
+      "description": "A traditional Bengal celebration delicacy, re-imagined. Organic dates slow-cooked with ghee, aromatic green cardamom, toasted cashews, and finished with crushed pistachios and edible silver leaf.",
+      "descriptionBn": "ঐতিহ্যবাহী মেহমানদারি ও উৎসবের ঐতিহ্যবাহী মিষ্টান্ন। অর্গানিক খেজুর, খাঁটি ঘি, সবুজ এলাচ, কাজুবাদাম এবং পেস্তা বাদামের শাহী সংমিশ্রণ।",
+      "story": "Rooted in Bangladeshi heritage and royal confection traditions, Khajur Barfi bridges centuries of celebratory food culture with modern clean ingredient ethics.",
+      "storyBn": "বাংলার ঐতিহ্য ও রাজকীয় মিষ্টি সংস্কৃতির সমন্বয়ে তৈরি প্রিমিয়াম খেজুর বরফি।",
+      "images": [
+        "/src/assets/images/khajur_barfi_1784995525489.jpg"
+      ],
+      "ingredients": [
+        "Saudi Organic Medjool Dates",
+        "Iranian Green Pistachios",
+        "Go-Shodho Pure Ghee",
+        "Whole Cashew Nuts",
+        "Green Cardamom Powder"
+      ],
+      "ingredientsBn": [
+        "সৌদি অর্গানিক মেডজুল খেজুর",
+        "ইরানি সবুজ পেস্তা বাদাম",
+        "খাঁটি গাওয়া ঘি",
+        "কাজু বাদাম",
+        "সবুজ এলাচ গুঁড়ো"
+      ],
+      "allergens": [
+        "Contains Tree Nuts (Cashew, Pistachio)",
+        "Contains Dairy (Pure Ghee)"
+      ],
+      "allergensBn": [
+        "বাদাম রয়েছে (কাজু, পেস্তা)",
+        "দুগ্ধজাত উপাদান (খাঁটি ঘি) রয়েছে"
+      ],
+      "tasteProfile": {
+        "sweetness": 4,
+        "richness": 4,
+        "crunch": 3
+      },
+      "nutrition": {
+        "calories": "160 kcal per piece",
+        "protein": "3.8g",
+        "carbs": "24g",
+        "fat": "6.2g",
+        "fiber": "4.1g",
+        "sugars": "18g"
+      },
+      "storageInstructions": "Keep in an airtight container at cool room temperature.",
+      "storageInstructionsBn": "বায়ুরোধী পাত্রে ঠান্ডা সাধারণ তাপমাত্রায় রাখুন।",
+      "shelfLife": "45 Days.",
+      "shelfLifeBn": "৪৫ দিন।",
+      "deliveryInfo": "Ships in insulated shock-absorbent eco-packaging.",
+      "deliveryInfoBn": "সুরক্ষিত পরিবেশবান্ধব প্যাকেজিংয়ে ডেলিভারি।",
+      "isFeatured": true,
+      "isBestseller": true,
+      "stock": 30,
+      "rating": 5,
+      "reviewCount": 42,
+      "relatedProductsMode": "auto"
+    },
+    {
+      "id": "p3",
+      "name": "White Nougat with Pistachio & Almond",
+      "subtitle": "Soft Honey Nougat Slab Laden with Whole Toasted Nuts",
+      "category": "Indulgent",
+      "price": 720,
+      "weight": "Artisan Block (250g)",
+      "description": "Soft, pillowy honey nougat crafted with whipped local wildflower honey, studded with golden toasted almonds and bright green pistachios.",
+      "story": "Hand-whipped in small batches over low copper kettles. Every slice reveals a mosaic of slow-roasted Mediterranean nuts held in soft honey clouds.",
+      "images": [
+        "/src/assets/images/white_nougat_1784995540305.jpg"
+      ],
+      "ingredients": [
+        "Wildflower Honey",
+        "Egg Whites",
+        "California Almonds",
+        "Pistachios",
+        "Rice Paper",
+        "Natural Vanilla Bean"
+      ],
+      "allergens": [
+        "Contains Eggs",
+        "Contains Tree Nuts (Almonds, Pistachios)"
+      ],
+      "tasteProfile": {
+        "sweetness": 4,
+        "richness": 3,
+        "crunch": 4
+      },
+      "nutrition": {
+        "calories": "170 kcal",
+        "protein": "4.1g",
+        "carbs": "25g",
+        "fat": "6.0g",
+        "fiber": "2.2g",
+        "sugars": "19g"
+      },
+      "storageInstructions": "Store in a cool dry place. Keep wrapped to protect from humidity.",
+      "shelfLife": "90 Days.",
+      "deliveryInfo": "Hand-wrapped in wax paper and gift box.",
+      "isFeatured": true,
+      "stock": 20,
+      "rating": 4.8,
+      "reviewCount": 29
+    },
+    {
+      "id": "p4",
+      "name": "Foolproof Chocolate Fudge Date Balls",
+      "subtitle": "Bite-Sized Raw Cocoa & Date Energy Truffles",
+      "category": "Date Collection",
+      "price": 580,
+      "weight": "Pouch of 12 (240g)",
+      "description": "Poppably delicious bite-sized energy balls made with whole dates, alkalized dark cocoa, chia seeds, and dusted with organic coconut flakes.",
+      "story": "Designed as the ultimate mid-afternoon pickup for busy professionals and students. No added sugar, just clean sustained fuel.",
+      "images": [
+        "/src/assets/images/fudge_date_balls_178499558856.jpg"
+      ],
+      "ingredients": [
+        "Pitted Khudri Dates",
+        "Dutch Dark Cocoa Powder",
+        "Organic Chia Seeds",
+        "Rolled Oats",
+        "Unsweetened Coconut Flakes",
+        "Sea Salt"
+      ],
+      "allergens": [
+        "Gluten-free oats",
+        "May contain traces of tree nuts"
+      ],
+      "tasteProfile": {
+        "sweetness": 2,
+        "richness": 4,
+        "crunch": 2
+      },
+      "nutrition": {
+        "calories": "85 kcal per ball",
+        "protein": "2.1g",
+        "carbs": "14g",
+        "fat": "3.1g",
+        "fiber": "3.2g",
+        "sugars": "9g"
+      },
+      "storageInstructions": "Refrigerate after opening for best chewy texture.",
+      "shelfLife": "60 Days.",
+      "deliveryInfo": "Resealable pouch packaging.",
+      "isFeatured": true,
+      "stock": 50,
+      "rating": 4.9,
+      "reviewCount": 51
+    },
+    {
+      "id": "p5",
+      "name": "Royal Stuffed Medjool Date Assortment",
+      "subtitle": "Jumbo Dates Filled with Roasted Pecans, Cashew Butter & Orange Zest",
+      "category": "Gift Boxes",
+      "price": 1250,
+      "originalPrice": 1400,
+      "weight": "Luxury Gift Box (12 Pieces)",
+      "description": "Hand-selected jumbo Medjool dates meticulously stuffed with artisanal nut butter fillings, candied orange peel, and dipped halfway in single-origin dark chocolate.",
+      "story": "The ultimate expression of Bangladeshi hospitality and festive gifting, presented in Alham's signature gold-embossed ivory gift box.",
+      "images": [
+        "/src/assets/images/khajur_barfi_1784995525489.jpg"
+      ],
+      "ingredients": [
+        "Saudi Jumbo Medjool Dates",
+        "Artisanal Cashew Butter",
+        "Georgia Pecans",
+        "Dark Chocolate (70%)",
+        "Candied Orange Peel"
+      ],
+      "allergens": [
+        "Contains Tree Nuts"
+      ],
+      "tasteProfile": {
+        "sweetness": 4,
+        "richness": 5,
+        "crunch": 4
+      },
+      "nutrition": {
+        "calories": "140 kcal per piece",
+        "protein": "3.0g",
+        "carbs": "21g",
+        "fat": "5.8g",
+        "fiber": "2.9g",
+        "sugars": "16g"
+      },
+      "storageInstructions": "Store in a cool dry pantry or refrigerator.",
+      "shelfLife": "45 Days.",
+      "deliveryInfo": "Includes luxury gift ribbon and customizable handwritten message card.",
+      "isFeatured": false,
+      "isNew": true,
+      "stock": 18,
+      "rating": 5,
+      "reviewCount": 14
+    }
+  ],
+  "cmsData": {
+    "siteSettings": {
+      "brandName": "ALHAM",
+      "brandTagline": "Handcrafted Healthy Snacks • Dhaka",
+      "logoType": "text",
+      "logoImageUrl": "",
+      "logoDarkUrl": "",
+      "logoLightUrl": "",
+      "faviconUrl": "",
+      "websiteTitle": "ALHAM — Handcrafted Date & Cocoa Confectionery | Dhaka",
+      "websiteDescription": "Handcrafted healthy snacks made with organic Saudi Medjool dates, slow-roasted nuts, and rich single-origin cocoa in Dhaka.",
+      "metaTitle": "ALHAM — Artisanal Date Confectionery",
+      "metaDescription": "Freshly prepared handcrafted treats delivered across Bangladesh.",
+      "defaultSeoImage": "/src/assets/images/alham_hero_texture_1784995489832.jpg",
+      "currency": "BDT",
+      "currencySymbol": "৳",
+      "timeZone": "Asia/Dhaka",
+      "country": "Bangladesh",
+      "defaultDeliveryCharge": 80,
+      "freeDeliveryThreshold": 1500,
+      "minOrderAmount": 0
+    },
+    "contactInfo": {
+      "businessEmail": "hello@alham.com",
+      "supportEmail": "support@alham.com",
+      "phone": "+880 1711-223344",
+      "whatsApp": "+880 1711-223344",
+      "address": "House 42, Road 11, Block D, Banani / Gulshan, Dhaka 1213",
+      "openingHours": "Sat – Thu: 9:00 AM – 9:00 PM",
+      "googleMapsUrl": "https://maps.google.com"
+    },
+    "socialLinks": {
+      "facebook": "https://facebook.com/alham.dhaka",
+      "instagram": "https://instagram.com/alham.dhaka",
+      "tikTok": "https://tiktok.com/@alham.dhaka",
+      "youTube": "https://youtube.com/alham.dhaka",
+      "whatsApp": "https://wa.me/8801711223344"
+    },
+    "topBar": {
+      "enabled": true,
+      "text": "Freshly prepared handcrafted treats | Free delivery across Bangladesh on orders over ৳1,500",
+      "linkText": "Shop Collection",
+      "linkUrl": "#collection",
+      "backgroundColor": "#29231F",
+      "textColor": "#F7F2E8"
+    },
+    "headerNav": {
+      "stickyHeader": true,
+      "items": [
+        {
+          "id": "n1",
+          "label": "Collection",
+          "view": "collection",
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "n2",
+          "label": "Our Story",
+          "view": "philosophy",
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "n3",
+          "label": "Ingredients",
+          "view": "ingredients",
+          "visible": true,
+          "order": 3
+        },
+        {
+          "id": "n4",
+          "label": "Journal",
+          "view": "recipes",
+          "visible": true,
+          "order": 4
+        }
+      ]
+    },
+    "dictionary": {
+      "exploreButton": "Explore Collection",
+      "ourStoryButton": "Our Story",
+      "buyNowButton": "Buy Now",
+      "addToCartButton": "Add to Cart",
+      "detailsButton": "View Details",
+      "cartLabel": "Cart",
+      "signInLabel": "Sign In",
+      "comingSoonLabel": "Coming Soon",
+      "viewDetailsLabel": "View Details",
+      "soldOutLabel": "Sold Out",
+      "inStockLabel": "In Stock",
+      "freeDeliveryBadge": "Free Delivery over ৳1,500",
+      "guaranteeBadge": "Handcrafted Fresh Daily"
+    },
+    "sectionOrder": [
+      {
+        "id": "s1",
+        "name": "Hero Section",
+        "enabled": true,
+        "type": "hero"
+      },
+      {
+        "id": "s2",
+        "name": "Featured Showcase",
+        "enabled": true,
+        "type": "featuredShowcase"
+      },
+      {
+        "id": "s3",
+        "name": "Craft Philosophy",
+        "enabled": true,
+        "type": "craftPhilosophy"
+      },
+      {
+        "id": "s4",
+        "name": "Ingredients Story",
+        "enabled": true,
+        "type": "ingredients"
+      },
+      {
+        "id": "s5",
+        "name": "Process Timeline",
+        "enabled": true,
+        "type": "processTimeline"
+      },
+      {
+        "id": "s6",
+        "name": "Signature Collections",
+        "enabled": true,
+        "type": "signatureCollections"
+      },
+      {
+        "id": "s7",
+        "name": "Wellness & Lifestyle",
+        "enabled": true,
+        "type": "wellnessLifestyle"
+      },
+      {
+        "id": "s8",
+        "name": "Editorial Journal",
+        "enabled": true,
+        "type": "journal"
+      },
+      {
+        "id": "s9",
+        "name": "Community & Reviews",
+        "enabled": true,
+        "type": "community"
+      },
+      {
+        "id": "s10",
+        "name": "Trust Badges",
+        "enabled": true,
+        "type": "trustBadges"
+      }
+    ],
+    "heroSection": {
+      "badge": "Authentic & Handcrafted",
+      "headlineFirst": "Goodness,",
+      "headlineSecond": "Crafted to Be",
+      "headlineHighlight": "Craved.",
+      "subheading": "Thoughtfully crafted snacks made with carefully selected ingredients, bringing together indulgent taste and mindful living.",
+      "primaryCtaText": "Explore Collection",
+      "secondaryCtaText": "Our Story",
+      "alhamCircleTitle": "The Alham Circle",
+      "alhamCircleSubtitle": "Join 2,400+ connoisseurs for private tastings & gift guides.",
+      "card1ProductId": "p1",
+      "card2ProductId": "p2",
+      "card3ProductId": "p3"
+    },
+    "mindfulIndulgenceSection": {
+      "badge": "Signature Creations",
+      "headingMain": "The Art of",
+      "headingHighlight": "Mindful Indulgence",
+      "description": "Every bite is crafted by hand in Dhaka using Saudi Medjool dates, single-origin cocoa, and slow-roasted nuts."
+    },
+    "craftPhilosophySection": {
+      "badge": "Our Philosophy",
+      "headingMain": "Crafted With",
+      "headingHighlight": "Intention.",
+      "paragraph1": "At Alham, we believe snacking should nourish the soul without compromising on pure indulgence. Every bar, ball, and barfi is prepared in small artisanal batches in Dhaka using organic Medjool dates, slow-roasted nuts, and rich cocoa.",
+      "paragraph2": "We replace refined sugars and artificial additives with natural honey, cold-pressed oils, and authentic Bengal culinary heritage.",
+      "mainImage": "/uploads/upload-1785427204718-8v8yj4.jpeg",
+      "hygieneBadgeTitle": "Sterile Kitchen Facility",
+      "hygieneBadgeText": "Prepared in small hygienic batches daily in Gulshan, Dhaka.",
+      "features": [
+        {
+          "id": "f1",
+          "title": "Carefully Selected Ingredients",
+          "description": "Organic Saudi Medjool dates, raw Sundarbans honey, and single-origin Ghanaian cocoa.",
+          "icon": "Sparkles",
+          "enabled": true
+        },
+        {
+          "id": "f2",
+          "title": "Small-Batch Crafting",
+          "description": "Hand-blended in small daily batches to preserve volatile natural aromas and peak chewiness.",
+          "icon": "Utensils",
+          "enabled": true
+        },
+        {
+          "id": "f3",
+          "title": "Balanced Sweetness",
+          "description": "No refined sugar, glucose syrups, or artificial sweeteners. Pure natural date sweetness.",
+          "icon": "Heart",
+          "enabled": true
+        },
+        {
+          "id": "f4",
+          "title": "Thoughtful Gifting",
+          "description": "Packaged in gold-embossed ivory boxes designed for Bengali family celebrations and corporate gestures.",
+          "icon": "Gift",
+          "enabled": true
+        }
+      ],
+      "craftImage": "/uploads/upload-1785427204718-8v8yj4.jpeg"
+    },
+    "processTimelineSection": {
+      "badge": "Our Craft",
+      "headingMain": "From Ingredient",
+      "headingHighlight": "to Bite",
+      "description": "Every Alham confection follows an unhurried 6-step artisanal journey in our Dhaka facility.",
+      "steps": [
+        {
+          "id": "st1",
+          "stepNumber": "01",
+          "title": "Selection",
+          "description": "Hand-sorting jumbo Medjool dates for moisture content and soft caramel pulp density.",
+          "icon": "Search",
+          "enabled": true
+        },
+        {
+          "id": "st2",
+          "stepNumber": "02",
+          "title": "Preparation",
+          "description": "Slow-roasting Char land peanuts and California almonds in copper drums.",
+          "icon": "Flame",
+          "enabled": true
+        },
+        {
+          "id": "st3",
+          "stepNumber": "03",
+          "title": "Crafting",
+          "description": "Blending date reduction caramel over low heat with pure go-shodho ghee.",
+          "icon": "UtensilsCrossed",
+          "enabled": true
+        },
+        {
+          "id": "st4",
+          "stepNumber": "04",
+          "title": "Hand Finishing",
+          "description": "Dipping each bar in single-origin cocoa mass and garnishing with crushed pistachios.",
+          "icon": "Sparkles",
+          "enabled": true
+        },
+        {
+          "id": "st5",
+          "stepNumber": "05",
+          "title": "Packing",
+          "description": "Sealing in food-grade foil and wrapping in wax-embossed boxes.",
+          "icon": "Package",
+          "enabled": true
+        },
+        {
+          "id": "st6",
+          "stepNumber": "06",
+          "title": "Enjoying",
+          "description": "Dispatched via climate-buffered courier for doorstep fresh arrival.",
+          "icon": "Smile",
+          "enabled": true
+        }
+      ]
+    },
+    "wellnessLifestyleSection": {
+      "badge": "Mindful Living",
+      "headingMain": "Elevated Snacking for",
+      "headingHighlight": "Modern Dhaka",
+      "description": "Nourishing your day through every meeting, workout, and family gathering.",
+      "cards": [
+        {
+          "id": "w1",
+          "title": "The 3 PM Focus Fuel",
+          "description": "Sustained natural energy without glucose crashes during long desk hours.",
+          "image": "/src/assets/images/snickers_bar_cut_1784995506640.jpg",
+          "tag": "Workplace",
+          "enabled": true
+        },
+        {
+          "id": "w2",
+          "title": "Post-Workout Recovery",
+          "description": "High-protein dates and slow-roasted nuts for natural muscle nourishment.",
+          "image": "/src/assets/images/fudge_date_balls_178499558856.jpg",
+          "tag": "Fitness",
+          "enabled": true
+        },
+        {
+          "id": "w3",
+          "title": "Festive Hospitality",
+          "description": "Traditional Bengali warmth reimagined with clean-label elegance.",
+          "image": "/src/assets/images/khajur_barfi_1784995525489.jpg",
+          "tag": "Gifting",
+          "enabled": true
+        }
+      ]
+    },
+    "communitySection": {
+      "badge": "Community & Reviews",
+      "headingMain": "Loved by Connoisseurs Across",
+      "headingHighlight": "Bangladesh",
+      "description": "Real stories from date lovers, healthy impulse snackers, and festive gift givers.",
+      "communityImage": "/src/assets/images/snickers_bar_cut_1784995506640.jpg"
+    },
+    "trustBadgesSection": {
+      "enabled": true,
+      "items": [
+        {
+          "id": "tb1",
+          "title": "100% Clean Ingredients",
+          "description": "Zero refined sugar, zero palm oil, zero synthetic preservatives.",
+          "icon": "ShieldCheck",
+          "enabled": true
+        },
+        {
+          "id": "tb2",
+          "title": "Handcrafted Fresh Daily",
+          "description": "Made in small artisanal batches right here in Dhaka.",
+          "icon": "Sparkles",
+          "enabled": true
+        },
+        {
+          "id": "tb3",
+          "title": "Climate-Controlled Packaging",
+          "description": "Insulated boxes to keep chocolates firm in tropical heat.",
+          "icon": "Box",
+          "enabled": true
+        },
+        {
+          "id": "tb4",
+          "title": "Nationwide Courier Delivery",
+          "description": "Fast delivery to 64 districts across Bangladesh.",
+          "icon": "Truck",
+          "enabled": true
+        }
+      ]
+    },
+    "footerSection": {
+      "brandName": "ALHAM",
+      "description": "Alham creates delicious, beautifully crafted snacks using carefully selected ingredients, combining indulgent taste with a more mindful approach to snacking.",
+      "newsletterTitle": "Join The Alham Circle",
+      "newsletterDescription": "Subscribe for private tasting notes, seasonal release access, and artisanal recipes.",
+      "newsletterPlaceholder": "Enter your email address",
+      "newsletterButtonText": "Join Circle",
+      "copyrightText": "© 2026 Alham Confectionery Dhaka. All rights reserved."
+    },
+    "faqs": [
+      {
+        "id": "faq1",
+        "question": "Do Alham products contain added refined sugar?",
+        "answer": "No. All sweetness comes naturally from Saudi Medjool dates and raw wildflower honey.",
+        "category": "Ingredients",
+        "enabled": true
+      },
+      {
+        "id": "faq2",
+        "question": "How long do Alham confections stay fresh?",
+        "answer": "Our bars and barfis last 60 days at room temperature and 90 days refrigerated in airtight boxes.",
+        "category": "Storage",
+        "enabled": true
+      },
+      {
+        "id": "faq3",
+        "question": "Do you deliver outside Dhaka?",
+        "answer": "Yes, we ship nationwide across all 64 districts in Bangladesh using fast courier services.",
+        "category": "Shipping",
+        "enabled": true
+      }
+    ],
+    "legalPages": {
+      "privacyPolicy": "Alham respects customer privacy. We strictly protect personal details and email addresses collected during order processing.",
+      "termsConditions": "By using the Alham website, you agree to our terms of service and delivery guidelines across Bangladesh.",
+      "shippingPolicy": "Orders are dispatched within 24-48 hours. Free shipping applies to orders above ৳1,500.",
+      "returnPolicy": "If any item arrives damaged or compromised, we offer instant replacement or full refund within 3 days."
+    },
+    "mediaItems": [
+      {
+        "id": "m1",
+        "name": "Snickers Bar Cut View",
+        "url": "/src/assets/images/snickers_bar_cut_1784995506640.jpg",
+        "alt": "Chewy Date Caramel Snickers Cut",
+        "category": "Products",
+        "createdAt": "2026-07-26T12:01:07.513Z"
+      },
+      {
+        "id": "m2",
+        "name": "Khajur Barfi Box",
+        "url": "/src/assets/images/khajur_barfi_1784995525489.jpg",
+        "alt": "Organic Medjool Date Barfi",
+        "category": "Products",
+        "createdAt": "2026-07-26T12:01:07.513Z"
+      },
+      {
+        "id": "m3",
+        "name": "White Nougat Slab",
+        "url": "/src/assets/images/white_nougat_1784995540305.jpg",
+        "alt": "Soft Honey Nougat Pistachio",
+        "category": "Products",
+        "createdAt": "2026-07-26T12:01:07.513Z"
+      },
+      {
+        "id": "m4",
+        "name": "Fudge Date Balls",
+        "url": "/src/assets/images/fudge_date_balls_178499558856.jpg",
+        "alt": "Raw Cocoa Date Energy Truffles",
+        "category": "Products",
+        "createdAt": "2026-07-26T12:01:07.513Z"
+      },
+      {
+        "id": "m5",
+        "name": "Alham Dark Texture",
+        "url": "/src/assets/images/alham_hero_texture_1784995489832.jpg",
+        "alt": "Alham Hero Dark Texture",
+        "category": "Hero",
+        "createdAt": "2026-07-26T12:01:07.513Z"
+      }
+    ],
+    "homepageConfig": {
+      "signatureCreations": {
+        "productIds": [
+          "p1",
+          "p2",
+          "p3",
+          "p4"
+        ],
+        "displayCount": 4,
+        "mode": "featured"
+      },
+      "allProducts": {
+        "enabled": true,
+        "productsPerRow": 3
+      }
+    },
+    "footerConfig": {},
+    "settings": {}
+  },
+  "deliverySettings": {
+    "freeDeliveryEnabled": true,
+    "globalFreeDeliveryMinAmount": 1500,
+    "zones": [
+      {
+        "id": "z-dhaka",
+        "name": "Dhaka City (Inside)",
+        "nameBn": "ঢাকা সিটি (ভেতরে)",
+        "standardFee": 60,
+        "expressFee": 100,
+        "freeDeliveryMinAmount": 1500,
+        "estimatedTime": "24-48 Hours",
+        "estimatedTimeBn": "২৪-৪৮ ঘণ্টা",
+        "active": true
+      },
+      {
+        "id": "z-chattogram",
+        "name": "Chattogram Division",
+        "nameBn": "চট্টগ্রাম বিভাগ",
+        "standardFee": 120,
+        "expressFee": 180,
+        "freeDeliveryMinAmount": 2000,
+        "estimatedTime": "2-3 Days",
+        "estimatedTimeBn": "২-৩ দিন",
+        "active": true
+      },
+      {
+        "id": "z-sylhet",
+        "name": "Sylhet Division",
+        "nameBn": "সিলেট বিভাগ",
+        "standardFee": 120,
+        "expressFee": 180,
+        "freeDeliveryMinAmount": 2000,
+        "estimatedTime": "2-3 Days",
+        "estimatedTimeBn": "২-৩ দিন",
+        "active": true
+      },
+      {
+        "id": "z-khulna",
+        "name": "Khulna Division",
+        "nameBn": "খুলনা বিভাগ",
+        "standardFee": 120,
+        "expressFee": 180,
+        "freeDeliveryMinAmount": 2000,
+        "estimatedTime": "2-4 Days",
+        "estimatedTimeBn": "২-৪ দিন",
+        "active": true
+      },
+      {
+        "id": "z-rajshahi",
+        "name": "Rajshahi Division",
+        "nameBn": "রাজশাহী বিভাগ",
+        "standardFee": 120,
+        "expressFee": 180,
+        "freeDeliveryMinAmount": 2000,
+        "estimatedTime": "2-4 Days",
+        "estimatedTimeBn": "২-৪ দিন",
+        "active": true
+      },
+      {
+        "id": "z-barishal",
+        "name": "Barishal Division",
+        "nameBn": "বরিশাল বিভাগ",
+        "standardFee": 120,
+        "expressFee": 180,
+        "freeDeliveryMinAmount": 2000,
+        "estimatedTime": "3-4 Days",
+        "estimatedTimeBn": "৩-৪ দিন",
+        "active": true
+      },
+      {
+        "id": "z-rangpur",
+        "name": "Rangpur Division",
+        "nameBn": "রংপুর বিভাগ",
+        "standardFee": 120,
+        "expressFee": 180,
+        "freeDeliveryMinAmount": 2000,
+        "estimatedTime": "3-4 Days",
+        "estimatedTimeBn": "৩-৪ দিন",
+        "active": true
+      },
+      {
+        "id": "z-mymensingh",
+        "name": "Mymensingh Division",
+        "nameBn": "ময়মনসিংহ বিভাগ",
+        "standardFee": 100,
+        "expressFee": 160,
+        "freeDeliveryMinAmount": 1800,
+        "estimatedTime": "2-3 Days",
+        "estimatedTimeBn": "২-৩ দিন",
+        "active": true
+      },
+      {
+        "id": "z-outside",
+        "name": "Other Districts (Outside Dhaka)",
+        "nameBn": "অন্যান্য জেলা (ঢাকার বাইরে)",
+        "standardFee": 130,
+        "expressFee": 200,
+        "freeDeliveryMinAmount": 2000,
+        "estimatedTime": "3-5 Days",
+        "estimatedTimeBn": "৩-৫ দিন",
+        "active": true
+      }
+    ]
+  },
+  "ingredients": [
+    {
+      "id": "ing1",
+      "name": "Organic Medjool Dates",
+      "description": "Referred to as the fruit of kings, our Medjool dates are prized for their soft caramel texture, natural honey note, and rich fiber content.",
+      "origin": "Saudi Arabia & Middle Eastern Groves",
+      "image": "/src/assets/images/khajur_barfi_1784995525489.jpg",
+      "benefit": "Natural slow-release energy, rich in potassium, copper, and magnesium.",
+      "flavorNotes": "Warm caramel, butterscotch, subtle brown sugar"
+    },
+    {
+      "id": "ing2",
+      "name": "Slow-Roasted Peanuts",
+      "description": "Sourced locally from Char land farmers in Bangladesh, slow oven-roasted to unlock deep nutty aromas without added oils.",
+      "origin": "Char Land Farms, Bangladesh",
+      "image": "/src/assets/images/snickers_bar_cut_1784995506640.jpg",
+      "benefit": "High plant protein and heart-healthy monounsaturated fats.",
+      "flavorNotes": "Toasted, buttery, savory crunch"
+    },
+    {
+      "id": "ing3",
+      "name": "Single-Origin Dark Cocoa",
+      "description": "Pure alkalized cocoa mass providing deep chocolate complexity without high refined sugar ratios.",
+      "origin": "Ghanaian Smallholder Farms",
+      "image": "/src/assets/images/alham_hero_texture_1784995489832.jpg",
+      "benefit": "Abundant in flavonoids, antioxidants, and mood-boosting compounds.",
+      "flavorNotes": "Intense dark cocoa, subtle fruitiness, velvety finish"
+    },
+    {
+      "id": "ing4",
+      "name": "Raw Wildflower Honey",
+      "description": "Unfiltered honey collected sustainably from the Sundarbans forest edge, keeping beneficial enzymes intact.",
+      "origin": "Sundarbans Peripheral Groves, Bangladesh",
+      "image": "/src/assets/images/white_nougat_1784995540305.jpg",
+      "benefit": "Natural antimicrobial properties and gentle floral sweetness.",
+      "flavorNotes": "Wild blossom, subtle citrus, warm nectar"
+    }
+  ],
+  "articles": [
+    {
+      "id": "a1",
+      "title": "Reinventing Nostalgia: The Story Behind Our Healthy Snickers Bar",
+      "category": "Behind the Craft",
+      "readTime": "4 min read",
+      "author": "Jidan & Alham Kitchen Team",
+      "date": "July 2026",
+      "image": "/uploads/upload-1785428016185-ixerd5.jpeg",
+      "excerpt": "How we spent 8 months perfecting a date-caramel formula that rivals commercial candy bars while keeping ingredients 100% clean and nourishing.",
+      "content": "When we set out to create Alham's signature Snickers bar, we had one rule: no synthetic emulsifiers, no hydrogenated fats, and no refined cane sugar syrups. We experimented with over 40 batches of date reductions until we achieved the exact stretch and chewiness of traditional caramel...",
+      "tags": [
+        "Craftsmanship",
+        "Date Caramel",
+        "Healthy Snacking"
+      ]
+    },
+    {
+      "id": "a2",
+      "title": "5 Mindful Snacking Habits for Busy Working Professionals",
+      "category": "Healthy Snacking",
+      "readTime": "3 min read",
+      "author": "Nutrition Editorial",
+      "date": "June 2026",
+      "image": "/src/assets/images/fudge_date_balls_178499558856.jpg",
+      "excerpt": "Ditch the afternoon glucose crash with nutrient-dense dates, healthy fats, and high-fiber plant proteins.",
+      "content": "The 3:00 PM energy slump is a familiar feeling for anyone working long hours in Dhaka. Instead of turning to sugary milk tea or deep-fried pastries, pairing complex carbs with healthy fats helps maintain steady blood glucose levels...",
+      "tags": [
+        "Wellness",
+        "Productivity",
+        "Mindful Living"
+      ]
+    },
+    {
+      "id": "a3",
+      "title": "The Heritage of Khajur Barfi in Bengali Confectionery",
+      "category": "Ingredient Stories",
+      "readTime": "5 min read",
+      "author": "Culinary Historian",
+      "date": "May 2026",
+      "image": "/src/assets/images/khajur_barfi_1784995525489.jpg",
+      "excerpt": "Exploring the historical celebration sweets of Bengal and how dates were traditionally preserved with pure ghee and local spices.",
+      "content": "Date sweet making has deep roots in Bengal's agricultural calendar. During the winter harvest, palm and date syrups were combined with roasted nuts. Today, Alham honors this centuries-old tradition...",
+      "tags": [
+        "Heritage",
+        "Bengali Cuisine",
+        "Artisan Sweets"
+      ]
+    }
+  ],
+  "homepageContent": {
+    "heroHeadline": "Goodness, Crafted to Be Craved.",
+    "heroSubheading": "Thoughtfully crafted snacks made with carefully selected ingredients, bringing together indulgent taste and mindful living.",
+    "heroImage": "/src/assets/images/alham_hero_texture_1784995489832.jpg",
+    "philosophyTitle": "Crafted With Intention",
+    "philosophyText": "At Alham, we believe snacking should nourish the soul without compromising on pure indulgence. Every bar, ball, and barfi is prepared in small artisanal batches in Dhaka using organic Medjool dates, slow-roasted nuts, and rich cocoa.",
+    "bannerMessage": "Free Delivery across Bangladesh on orders over ৳1,500 | Handcrafted fresh daily"
+  },
+  "coupons": [
+    {
+      "id": "c1",
+      "code": "ALHAMFIRST",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 500,
+      "active": true,
+      "usedCount": 84
+    },
+    {
+      "id": "c2",
+      "code": "HEALTHY150",
+      "discountType": "fixed",
+      "discountValue": 150,
+      "minOrderAmount": 1200,
+      "active": true,
+      "usedCount": 32
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "productId": "p1",
+      "userName": "Farhana Ahmed",
+      "rating": 5,
+      "date": "2 days ago",
+      "comment": "Honestly blown away by the Healthier Snickers bar! The date caramel has the exact chewy texture without being overly sweet. My family loved it.",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "r2",
+      "productId": "p2",
+      "userName": "Tanvir Hossain",
+      "rating": 5,
+      "date": "1 week ago",
+      "comment": "The Khajur Barfi is authentic luxury. The packaging was immaculate and the cardamom notes are so fragrant. Ordering again for Eid gifting!",
+      "verifiedPurchase": true
+    },
+    {
+      "id": "r3",
+      "productId": "p3",
+      "userName": "Samiya Rahman",
+      "rating": 4,
+      "date": "2 weeks ago",
+      "comment": "Soft nougat with plenty of whole pistachios. Beautiful presentation and fast delivery in Gulshan.",
+      "verifiedPurchase": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ALH-2760",
+      "customerEmail": "nilimalimu67@gmail.com",
+      "customerName": "jida",
+      "customerPhone": "01736090365",
+      "shippingAddress": {
+        "id": "addr-1785126283415",
+        "fullName": "jida",
+        "phone": "01736090365",
+        "street": "bhola",
+        "city": "ঢাকা সিটি (ভেতরে)",
+        "district": "ঢাকা সিটি (ভেতরে)"
+      },
+      "items": [
+        {
+          "productId": "p2",
+          "productName": "প্রিমিয়াম খেজুর বরফি (পিস্তা ও এলাচ)",
+          "price": 850,
+          "quantity": 1,
+          "weight": "প্রিমিয়াম বক্স (৩৫০ গ্রাম)",
+          "image": "/src/assets/images/khajur_barfi_1784995525489.jpg"
+        }
+      ],
+      "subtotal": 850,
+      "discount": 0,
+      "deliveryFee": 60,
+      "total": 910,
+      "status": "Pending",
+      "paymentMethod": "Cash on Delivery",
+      "paymentStatus": "Pending / Cash on Delivery",
+      "statusTimeline": [
+        {
+          "status": "Pending",
+          "date": "2026-07-27T04:24:44.626Z"
+        }
+      ],
+      "createdAt": "2026-07-27T04:24:44.626Z",
+      "updatedAt": "2026-07-27T04:24:44.626Z",
+      "notes": ""
+    },
+    {
+      "id": "ALH-8055",
+      "customerEmail": "leptopleptop261@gmail.com",
+      "customerName": "jhio",
+      "customerPhone": "01736090365",
+      "shippingAddress": {
+        "id": "addr-1785067377549",
+        "fullName": "jhio",
+        "phone": "01736090365",
+        "street": "nholzkj",
+        "city": "ঢাকা সিটি (ভেতরে)",
+        "district": "ঢাকা সিটি (ভেতরে)"
+      },
+      "items": [
+        {
+          "productId": "p2",
+          "productName": "প্রিমিয়াম খেজুর বরফি (পিস্তা ও এলাচ)",
+          "price": 850,
+          "quantity": 1,
+          "weight": "প্রিমিয়াম বক্স (৩৫০ গ্রাম)",
+          "image": "/src/assets/images/khajur_barfi_1784995525489.jpg"
+        }
+      ],
+      "subtotal": 850,
+      "discount": 0,
+      "deliveryFee": 60,
+      "total": 910,
+      "status": "Pending",
+      "paymentMethod": "bKash",
+      "paymentStatus": "Pending / Cash on Delivery",
+      "statusTimeline": [
+        {
+          "status": "Pending",
+          "date": "2026-07-26T12:02:57.694Z"
+        }
+      ],
+      "createdAt": "2026-07-26T12:02:57.694Z",
+      "updatedAt": "2026-07-26T12:02:57.694Z",
+      "notes": ""
+    },
+    {
+      "id": "ALH-8921",
+      "customerEmail": "farhana@example.com",
+      "customerName": "Farhana Ahmed",
+      "customerPhone": "+8801711223344",
+      "shippingAddress": {
+        "addressLine1": "House 12, Road 4, Block C",
+        "city": "Dhaka",
+        "district": "Dhaka",
+        "postalCode": "1212"
+      },
+      "items": [],
+      "subtotal": 1250,
+      "discount": 0,
+      "deliveryFee": 60,
+      "total": 1310,
+      "status": "Delivered",
+      "paymentMethod": "Cash on Delivery",
+      "paymentStatus": "Paid",
+      "createdAt": "2024-05-10T10:30:00Z",
+      "updatedAt": "2024-05-12T14:20:00Z",
+      "statusTimeline": [
+        {
+          "status": "Pending",
+          "date": "2024-05-10T10:30:00Z"
+        },
+        {
+          "status": "Delivered",
+          "date": "2024-05-12T14:20:00Z"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "admin-1",
+      "email": "leptopleptop261@gmail.com",
+      "name": "Jidan",
+      "role": "super_admin",
+      "rewardPoints": 91
+    },
+    {
+      "id": "u-1785126284626",
+      "email": "nilimalimu67@gmail.com",
+      "name": "jida",
+      "role": "customer",
+      "phone": "01736090365",
+      "rewardPoints": 91,
+      "createdAt": "2026-07-27T04:24:44.626Z"
+    }
+  ],
+  "trackingSettings": {
+    "gtm": {
+      "enabled": true,
+      "containerId": "GTM-WRRNCLCK"
+    },
+    "ga4": {
+      "enabled": false,
+      "measurementId": ""
+    },
+    "metaPixel": {
+      "enabled": false,
+      "pixelId": ""
+    },
+    "googleAds": {
+      "enabled": false,
+      "conversionId": "",
+      "conversionLabel": ""
+    },
+    "tikTokPixel": {
+      "enabled": false,
+      "pixelId": ""
+    },
+    "customScripts": {
+      "headScript": "",
+      "bodyScript": "",
+      "footerScript": ""
+    }
+  },
+  "paymentSettings": {
+    "bKash": {
+      "enabled": false,
+      "number": "01XXXXXXXXX",
+      "accountType": "Personal",
+      "instructions": "Send the exact amount",
+      "referenceInstructions": "Use your Order ID as reference",
+      "transactionIdInstructions": "Enter the Transaction ID below",
+      "requireScreenshot": true
+    },
+    "nagad": {
+      "enabled": false,
+      "number": "01XXXXXXXXX",
+      "accountType": "Personal",
+      "instructions": "Send the exact amount",
+      "referenceInstructions": "Use your Order ID as reference",
+      "transactionIdInstructions": "Enter the Transaction ID below",
+      "requireScreenshot": true
+    },
+    "rocket": {
+      "enabled": false,
+      "number": "01XXXXXXXXX",
+      "accountType": "Personal",
+      "instructions": "Send the exact amount",
+      "referenceInstructions": "Use your Order ID as reference",
+      "transactionIdInstructions": "Enter the Transaction ID below",
+      "requireScreenshot": true
+    },
+    "cashOnDelivery": {
+      "enabled": true,
+      "charge": 80,
+      "minOrder": 0,
+      "maxOrder": 10000,
+      "instructions": "Pay cash upon delivery"
+    }
+  },
+  "notifications": []
+}

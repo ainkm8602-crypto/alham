@@ -1,0 +1,53 @@
+{
+  "firestore": {
+    "database": "ai-studio-remixremixalhamp-f8349b20-8782-4fd4-91ae-05979b963974",
+    "rules": "firestore.rules"
+  },
+  "hosting": {
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
+    "headers": [
+      {
+        "source": "**/*.@(jpg|jpeg|gif|png|webp|avif|svg|ico|cur|gz|svgz|mp4|ogg|ogv|webm|htc)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=31536000, public, immutable"
+          }
+        ]
+      },
+      {
+        "source": "**/*.@(js|css)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=31536000, public, immutable"
+          }
+        ]
+      },
+      {
+        "source": "**/*.@(eot|otf|ttf|woff|woff2)",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=31536000, public, immutable"
+          },
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
+      }
+    ]
+  }
+}
